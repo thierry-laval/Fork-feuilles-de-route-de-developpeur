@@ -1,7 +1,7 @@
 <p align="center">
   <img src="public/images/brand.png" height="128">
   <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
-  <p align="center">Community driven roadmaps, articles and resources for developers<p>
+  <p align="center">Feuilles de route, articles et ressources pour les développeurs, pilotés par la communauté<p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
@@ -22,13 +22,17 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-Roadmaps are now interactive, you can click the nodes to read more about the topics.
+Ceci est un Fork de la feuille de route devops de Kamran Ahmed - [kamranahmedse]([summary.md](https://github.com/kamranahmedse/developer-roadmap)) sur GitHub.
 
-### [View all Roadmaps](https://roadmap.sh)
+Je la traduit en français et la met à disposition.
+
+Les feuilles de route sont désormais interactives, vous pouvez cliquer sur les titres pour en savoir plus sur les sujets.
+
+### [Voir toutes les feuilles de route](https://roadmap.sh)
 
 ![](https://i.imgur.com/waxVImv.png)
 
-Here is the list of available roadmaps with more being actively worked upon.
+Voici la liste des feuilles de route disponibles, d'autres étant en cours d'élaboration.
 
 - [Frontend Roadmap](https://roadmap.sh/frontend)
 - [Backend Roadmap](https://roadmap.sh/backend)
@@ -60,7 +64,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [MongoDB Roadmap](https://roadmap.sh/mongodb)
 - [UX Design Roadmap](https://roadmap.sh/ux-design)
 
-We have also added a new form of visual content covering best practices:
+Nous avons également ajouté une nouvelle forme de contenu visuel couvrant les meilleures pratiques :
 
 - [Code Review Best Practices](https://roadmap.sh/best-practices/code-review)
 - [Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)
@@ -69,9 +73,9 @@ We have also added a new form of visual content covering best practices:
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## Share with the community
+## Partager avec la communauté
 
-Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the value it provides. It really does help!
+N'hésitez pas à partager un article sur [roadmap.sh](https://roadmap.sh). C'est vraiment utile !
 
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://roadmap.sh)
@@ -79,9 +83,9 @@ Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the va
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://roadmap.sh)
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
 
-## Development
+## Développement
 
-Clone the repository, install the dependencies and start the application
+Cloner le dépôt à partir de l'original, installer les dépendances et démarrer l'application.
 
 ```bash
 git clone git@github.com:kamranahmedse/developer-roadmap.git
@@ -91,20 +95,35 @@ npm run dev
 
 ## Contribution
 
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
+> Consultez [contribution docs](./contributing.md) pour savoir comment mettre à jour l'une des feuilles de route.
 
-- Add content to roadmaps
-- Add new roadmaps
-- Suggest changes to existing roadmaps
-- Discuss ideas in issues
-- Spread the word
+- Ajouter du contenu aux feuilles de route
+- Ajouter de nouvelles feuilles de route
+- Proposer des modifications aux feuilles de route existantes
+- Discuter des idées dans les questions
+- Diffuser le mot
 
+<!-- 
 ## Thanks to all contributors ❤
 
  <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
  </a>
-
+-->
 ## License
 
-Have a look at the [license file](./license) for details
+Consultez le [fichier de licence](./license) pour plus de détails.
+
+***
+
+### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+Donnez une ⭐️ &nbsp; si ce projet vous a plu !
+
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<!--[This is an image](https://myoctocat.com/)-->
+
+<a href="url"><img src="/images/octocat.png" height="300"></a>
+
+**[⬆ Retour en haut](#auteur)**
